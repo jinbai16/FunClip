@@ -1,0 +1,12 @@
+python funclip/videoclipper.py --stage 1 \
+                       --viedo/videoplayback.mp4 \
+                       --output_dir ./output
+
+
+python funclip/videoclipper.py --stage 1 \
+    --file D:\Users\User\Desktop\FunClip-main\viedo\videoplayback.mp4 \
+    --output_dir ./output
+
+
+
+python funclip/videoclipper.py --stage 1 --file "D:\Users\User\Desktop\FunClip-main\viedo\videoplayback.mp4" --output_dir "./output"
